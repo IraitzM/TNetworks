@@ -1,2 +1,7 @@
 # TNetworks
-Simple playground for Tensor Networks
+
+Simple playground for Tensor Networks and ITensor Julia packages.
+
+## Author
+
+Iraitz Montalbans
